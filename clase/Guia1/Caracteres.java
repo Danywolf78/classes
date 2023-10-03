@@ -1,5 +1,6 @@
 package clase.Guia1;
-
+/*3. Caracteres : Guarde en distintos espacios de memoria los caracteres de su nombre
+y luego imprimirlos por pantalla. ¿Por qué no puede usar "" en el char? */
 public class Caracteres {
     public static void main(String[] args) {
         char Letra1 = 'D';

@@ -28,7 +28,7 @@ public class IntroOperativas {
          * 4.Resta
          */
         System.out.println(resultado3);
-        System.out.println("Hola, el resultado es " + resultado3 + " ,este dia hizo Frio" + (5 + 2) );
+        System.out.println("Hola, el resultado es " + resultado3 + " ,este dia hizo Frio " + (5 + 2) );
 
     }
 }
